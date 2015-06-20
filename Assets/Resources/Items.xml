@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- All items must have an item icon in the ItemIcons resources folder with the same name -->
+<Items>
+	<item>
+		<id>0</id>
+		<name>Health Potion</name>
+		<description>Drink for &#43;10 health.</description>
+		<power>0</power>
+		<speed>0</speed>
+		<type>Consumable</type>
+	</item>
+	<item>
+		<id>1</id>
+		<name>Mana Potion</name>
+		<description>Drink for &#43;10 mana.</description>
+		<power>0</power>
+		<speed>0</speed>
+		<type>Consumable</type>
+	</item>
+	<item>
+		<id>2</id>
+		<name>Heart</name>
+		<description>Consume for &#43;10 max health.</description>
+		<power>0</power>
+		<speed>0</speed>
+		<type>Consumable</type>
+	</item>
+	<item>
+		<id>3</id>
+		<name>Mana Crystal</name>
+		<description>Consume for &#43;10 max mana.</description>
+		<power>0</power>
+		<speed>0</speed>
+		<type>Consumable</type>
+	</item>
+</Items>
