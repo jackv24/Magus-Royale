@@ -61,7 +61,7 @@ QualitySettings:
     shadowCascades: 4
     shadowDistance: 150
     shadowCascade2Split: .333333343
-    shadowCascade4Split: {x: .0666666701, y: .200000003, z: .466666669}
+    shadowCascade4Split: {x: .0666666701, y: .199999988, z: .466666639}
     blendWeights: 4
     textureQuality: 0
     anisotropicTextures: 2
@@ -78,8 +78,10 @@ QualitySettings:
   m_PerPlatformDefaultQuality:
     Android: 1
     BlackBerry: 1
+    Samsung TV: 0
     Standalone: 2
     WP8: 1
     Web: 1
+    WebGL: 0
     Windows Store Apps: 1
     iPhone: 1
